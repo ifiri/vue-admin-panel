@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Category 1",
+        "alias": "category-1",
+        "description": "Lorem ipsum dolor sit amet",
+        "descendants": [
+            {
+                "id": 100,
+                "title": "Descendant Category 1",
+                "alias": "descendant-category-1",
+                "description": "Lorem ipsum dolor sit amet"
+            },
+            {
+                "id": 101,
+                "title": "Descendant Category 2 with their own descendants",
+                "alias": "descendant-category-2-with-its-own",
+                "description": "Lorem ipsum dolor sit amet",
+                "descendants": [
+                    {
+                        "id": 1000,
+                        "alias": "low-level-one",
+                        "title": "Low-level Category 1",
+                        "description": "Lorem ipsum dolor sit amet",
+                        "descendants": [
+                            {
+                                "id": 10000,
+                                "alias": "impossible-deep",
+                                "title": "Category with impossible deep",
+                                "description": "Lorem ipsum dolor sit amet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Category 2",
+        "alias": "category-2",
+        "description": "Lorem ipsum dolor sit amet",
+        "descendants": [
+            {
+                "id": 103,
+                "title": "Descendant Category 3",
+                "alias": "descendant-category-3",
+                "description": "Lorem ipsum dolor sit amet"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Category 2, without descendants",
+        "alias": "category-2-without-its-own",
+        "description": "Lorem ipsum dolor sit amet"
+    }
+]

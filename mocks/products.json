@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "category_id": 100,
+        "name": "Product 1",
+        "color": {
+            "name": "gray",
+            "hex": "#dddddd"
+        },
+        "year": 2000,
+        "activity": 1,
+        "price": 10000
+    },
+    {
+        "id": 2,
+        "category_id": 100,
+        "name": "Product 2",
+        "color": {
+            "name": "blue",
+            "hex": "#f70b0b"
+        },
+        "year": 2000,
+        "activity": 100,
+        "price": 3500
+    },
+    {
+        "id": 3,
+        "category_id": 103,
+        "name": "Product with very long title",
+        "color": {
+            "name": "red",
+            "hex": "#3556d7"
+        },
+        "year": 2000,
+        "activity": 25,
+        "price": 18490
+    },
+    {
+        "id": 4,
+        "category_id": 3,
+        "name": "Product 4",
+        "color": {
+            "name": "red",
+            "hex": "#3556d7"
+        },
+        "year": 2000,
+        "activity": 10,
+        "price": 95000
+    }
+]

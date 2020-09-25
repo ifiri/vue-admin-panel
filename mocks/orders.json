@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "status": "in_stock",
+        "client": 2,
+        "order_date": "2019-01-01T12:00:00+0000",
+        "shipment_date": "2019-01-01T12:00:00+0000"
+    },
+    {
+        "id": 2,
+        "status": "delivered",
+        "client": 5,
+        "order_date": "2019-01-01T12:00:00+0000",
+        "shipment_date": "2019-01-01T12:00:00+0000"
+    },
+    {
+        "id": 3,
+        "status": "in_process",
+        "client": 3,
+        "order_date": "2019-01-01T12:00:00+0000",
+        "shipment_date": "2019-01-01T12:00:00+0000"
+    },
+    {
+        "id": 4,
+        "status": "cancelled",
+        "client": 6,
+        "order_date": "2019-01-01T12:00:00+0000",
+        "shipment_date": "2019-01-01T12:00:00+0000"
+    },
+    {
+        "id": 5,
+        "status": "delivered",
+        "client": 1,
+        "order_date": "2019-01-01T12:00:00+0000",
+        "shipment_date": "2019-01-01T12:00:00+0000"
+    }
+]

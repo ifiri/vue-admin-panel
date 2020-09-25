@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Иванов Иван Иванович",
+        "email": "ivanov@email.com",
+        "type": "user"
+    },
+    {
+        "id": 2,
+        "name": "Джон Смит",
+        "email": "johnsmith@email.com",
+        "type": "user"
+    },
+    {
+        "id": 3,
+        "name": "Авраам Линкольн",
+        "email": "avraamlink@usa.gov",
+        "type": "administrator"
+    },
+    {
+        "id": 4,
+        "name": "Аль Пачино",
+        "email": "alpac@email.com",
+        "type": "user"
+    },
+    {
+        "id": 5,
+        "name": "Брэд Питт",
+        "email": "pitt1488@email.com",
+        "type": "user"
+    },
+    {
+        "id": 6,
+        "name": "Анджелина Джоли",
+        "email": "aosderwrew@email.com",
+        "type": "user"
+    },
+    {
+        "id": 7,
+        "name": "Сатоши Накамото",
+        "email": "btcrulez@protonmail.ch",
+        "type": "vip"
+    },
+    {
+        "id": 8,
+        "name": "Виталик Бутерин",
+        "email": "ethereum@email.com",
+        "type": "vip"
+    }
+]
